@@ -1,0 +1,48 @@
+{
+  "name": "soilscreens",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-native-community/picker": "^1.8.1",
+    "@react-native-masked-view/masked-view": "^0.2.6",
+    "@react-navigation/bottom-tabs": "^6.2.0",
+    "@react-navigation/material-bottom-tabs": "^6.1.1",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/stack": "^6.1.1",
+    "@reduxjs/toolkit": "^1.8.0",
+    "expo": "~44.0.0",
+    "expo-image-picker": "~12.0.1",
+    "expo-status-bar": "~1.2.0",
+    "native-base": "^3.3.7",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-elements": "^3.4.2",
+    "react-native-fast-image": "^8.5.11",
+    "react-native-gesture-handler": "~2.1.0",
+    "react-native-image-modal": "^1.0.16",
+    "react-native-image-viewing": "^0.2.1",
+    "react-native-paper": "^4.11.2",
+    "react-native-picker-select": "^8.0.4",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.10.1",
+    "react-native-svg": "12.1.1",
+    "react-native-vector-icons": "^9.1.0",
+    "react-native-web": "0.17.1",
+    "react-navigation": "^4.4.4",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
